@@ -1,8 +1,6 @@
 ### **Basic Level:**
 
 """1. **Task 1:** Create a string variable with your name and print it."""
-
-
 name = "Ace"
 print(name)
 print()
